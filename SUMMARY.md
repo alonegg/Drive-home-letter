@@ -2,9 +2,9 @@
 
 * [驾驶家书](README.md)
 
-## 选车 <a id="which-is-your-lovely-car"></a>
+## 选车 <a id="choose"></a>
 
-* [Untitled](which-is-your-lovely-car/untitled.md)
+* [Untitled](choose/untitled.md)
 
 ## 驾驶 <a id="drive-tips"></a>
 
